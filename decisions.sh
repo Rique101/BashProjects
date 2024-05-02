@@ -90,7 +90,7 @@ else
     echo You may not go to the party.
 fi
 
-# Basic comparison operators
+# Basic logical operators
 # Operator      Operation
 # &&            and
 # ||            or
